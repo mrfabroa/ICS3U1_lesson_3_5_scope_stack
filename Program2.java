@@ -26,7 +26,7 @@ class Program2 extends ConsoleProgram {
    * @return the area of the rectangle
    */
   private int getArea(){
-    int width2 = 0;
+    int width = 0;
     return width * height;
   }
 
